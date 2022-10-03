@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ivan-box/goit-react-hw-04-06-phonebook.git/static/css/main.ce80a386.css",
+    "main.js": "/ivan-box/goit-react-hw-04-06-phonebook.git/static/js/main.f789221b.js",
+    "index.html": "/ivan-box/goit-react-hw-04-06-phonebook.git/index.html",
+    "main.ce80a386.css.map": "/ivan-box/goit-react-hw-04-06-phonebook.git/static/css/main.ce80a386.css.map",
+    "main.f789221b.js.map": "/ivan-box/goit-react-hw-04-06-phonebook.git/static/js/main.f789221b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce80a386.css",
+    "static/js/main.f789221b.js"
+  ]
+}
