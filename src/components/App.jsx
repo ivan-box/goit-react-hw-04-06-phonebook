@@ -45,7 +45,7 @@ export function App() {
     name.toLowerCase().includes(filter.trim())
   );
   return (
-    <div className={s.cotainer}>
+    <div className={s.container}>
       <div>
         <h1>Phonebook</h1>
         <Form onSubmit={formSubmitHandler} />
